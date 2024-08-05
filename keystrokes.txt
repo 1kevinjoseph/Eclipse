@@ -101,3 +101,18 @@ m
 v
 right ctrl
 c
+m
+m
+m
+m
+m
+m
+m
+backspace
+backspace
+backspace
+backspace
+backspace
+backspace
+backspace
+backspace
